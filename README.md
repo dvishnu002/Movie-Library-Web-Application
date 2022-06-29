@@ -1,4 +1,6 @@
 # Movie-Library-Web-Application
+# Name: Deepak V
+# Reg No: 18MIS0117
 
 
 ![Project screenshot](https://raw.githubusercontent.com/paufar/movie-library/master/src/images/app-screenshot.png)
