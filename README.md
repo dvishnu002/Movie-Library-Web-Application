@@ -43,7 +43,7 @@ Run the application in development mode
 npm start
 ```
 
-App will be served on and can be viewed at [https://localhost:3000](https://localhost:3000)
+
 
 ## Development
 This application was built using ES6, React, Redux for application state and the [create-react-app](https://github.com/facebook/create-react-app) tool as a boilerplate.
